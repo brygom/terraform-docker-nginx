@@ -1,0 +1,7 @@
+.terraform
+staging_key
+staging_key.pub
+main_vpc.tf.bak terraform.tfvars.bak
+terraform.tfstate.backup
+main_vpc.tf.bak
+terraform.tfvars.bak
